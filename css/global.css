@@ -1,0 +1,18 @@
+/*
+60 of #D9C196
+30 of #93A603
+10 of #A6633C
+*/
+
+ :root {
+ 
+ /* var(primaryColor) */
+--primaryColor:#D9C196;
+
+ /* var(secondaryColor) */
+--secondaryColor:#93A603;
+
+ /* var(accentColor) */
+--accentColor:#A6633C;
+
+ }
