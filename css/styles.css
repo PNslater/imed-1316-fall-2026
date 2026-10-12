@@ -6,3 +6,11 @@ body {
     background-color: var(--primaryColor);
     color: #fff;
 }
+
+
+.nunito-imed {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
