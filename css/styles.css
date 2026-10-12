@@ -7,6 +7,9 @@ body {
     color: #fff;
 }
 
+.font-awesome-icons {
+    background-color: var(--primaryColor);
+}
 
 .nunito-imed {
   font-family: "Nunito", sans-serif;
