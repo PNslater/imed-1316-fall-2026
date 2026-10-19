@@ -12,12 +12,25 @@
 }
 
 .nunito-imed {
-  font-family: "Nunito", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: bold;
-  font-style: normal;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
 }
 
-.p-one { 
-    color:#000;
+.p-one {
+    color: #000;
 }
+
+.fa-footer{
+    background-color: var(--primaryColor);
+    padding: 25px;
+}
+
+
+
+.fa-footer i {
+    color: #fff;
+    fone-size: 25px;
+}
+
